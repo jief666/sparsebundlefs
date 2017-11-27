@@ -1,7 +1,7 @@
 sparsebundlefs
 ================
 
-FUSE filesystem for reading Mac OS sparse-bundle disk images.
+FUSE filesystem for reading Mac OS sparse-bundle disk images. Encrypted sparsebundle supported.
 
 [![Build Status][buildstatus]][travisci]
 
